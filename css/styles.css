@@ -1,0 +1,14 @@
+.text {
+	width: 400px;
+}
+
+.container {
+
+	display:flex;
+	flex-direction:row;
+}
+
+p {
+
+	font-family: 'Indie Flower', cursive;
+}
